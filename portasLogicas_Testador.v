@@ -1,4 +1,4 @@
-`timescale 10ns/1ns;
+`timescale 10ns/1ns
 
 module portasLogicas_Testador;
 	reg [2:0] a,b;
